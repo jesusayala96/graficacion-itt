@@ -1,0 +1,55 @@
+C:\Users\PC\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe.config
+C:\Users\PC\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\PC\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\PC\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.frmMain.resources
+C:\Users\PC\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.Properties.Resources.resources
+C:\Users\PC\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\PC\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe.config
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.frmMain.resources
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.Properties.Resources.resources
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe.config
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.frmMain.resources
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.Properties.Resources.resources
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe.config
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.frmMain.resources
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.Properties.Resources.resources
+C:\Users\PC\Downloads\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe.config
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.frmMain.resources
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.Properties.Resources.resources
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.frmVistas.resources
+C:\Users\Jesus\Desktop\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe.config
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.exe
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\ProyectoGraficacion-ITT.pdb
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.frmMain.resources
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.frmVistas.resources
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion_ITT.Properties.Resources.resources
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\obj\Debug\ProyectoGraficacion-ITT.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\Ayala Sandoval-14211403\ProyectoGraficacion-ITT\ProyectoGraficacion-ITT\bin\Debug\Person.png
